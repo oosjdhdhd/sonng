@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/gjyklslb\.mantianfei\.net url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/yx/https://raw.githubusercontent.com/oosjdhdhd/sonng/main/c.js
+^https:\/\/gjyklslb\.mantianfei\.net url script-response-body https://raw.githubusercontent.com/oosjdhdhd/sonng/main/c.js
 
 [mitm]
 
